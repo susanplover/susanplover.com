@@ -112,6 +112,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-linux
 
 DEPENDENCIES
   middleman (>= 4.1.10)
@@ -123,4 +124,4 @@ DEPENDENCIES
   wdm (~> 0.1.0)
 
 BUNDLED WITH
-   1.17.2
+   2.2.2

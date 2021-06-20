@@ -1,4 +1,27 @@
 collection_nav:
+  behind_closed_doors:
+    description: "In May 2020 when the pandemic was raging a curator made a call out for a series of works to be shown virtually as if within a home . All the galleries and art spaces were closed, it was a brilliant and innovative way to allow art to be viewed on a new platform."
+    pieces:
+      - piece:
+          url: "/images/last_post_in_lock_down.jpg"
+          title: "Last Post in Lockdown"
+          details: ""
+      - piece:
+          url: "/images/bedroom.jpg"
+          title: "Bedroom"
+          details: ""
+      - piece:
+          url: "/images/domestic_goddess.jpg"
+          title: "Domestic Goddess"
+          details: ""
+      - piece:
+          url: "/images/parlour_games.jpg"
+          title: "Parlour Games"
+          details: ""
+      - piece:
+          url: "/images/all_washed_up.jpg"
+          title: "All Washed Up"
+          details: ""
   the_goodwill_collection:
     description: "This year has seen my practice expand into publication, from 'Fake News' to a Yorkshire Rail newspaper.\nMy work's been published in both a traditional hard back book and an online E Book. Interest in Zines has not diminished with pieces featured in both art mainstream and horror publications. Actual pieces have found themselves in diverse locations from a micro pub to a fertility clinic, but my growing focus is upon supporting charitable causes.\nTo this extent my new collection is called - 'The Goodwill Collection'"
     pieces:
