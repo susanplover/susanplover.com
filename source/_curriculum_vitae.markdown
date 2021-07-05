@@ -1,9 +1,6 @@
-## CV Highlights 2020
+## CV HIGHLIGHTS 20/21
 
- Susan Plover B.A (Hons)
-
-
-CV HIGHLIGHTS 20/21
+Susan Plover B.A (Hons)
 
 SOLO SHOWS
 
