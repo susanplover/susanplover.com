@@ -2,14 +2,14 @@
 
 Susan Plover B.A (Hons)
 
-SOLO SHOWS
+### SOLO SHOWS
 
 - "Behind Closed Doors" - virtual online www.abigailmillerstudio.co.uk
 - "Feast-Tiny Cat Gallery" - www.lisa-cole.co.uk
 - "I Should Have Listened To The Fish !" - Cardboard Monkey Gallery
 - "Gilded Cage" - Angelica Kaufman Gallery (USA)
 
-GROUP SHOWS
+### GROUP SHOWS
 
 - "Postcards From The Edge" - (USA)
 - "Home-Morgan Library" - (USA)
@@ -26,7 +26,7 @@ GROUP SHOWS
 - "Before Greed Became Form" - Instagram
 - "Lock Down" - @fronteer Art
 
-ZINES
+### ZINES
 
 - MASS - www.the-mass.com
 - STAT - statzine@gmail.com
@@ -37,9 +37,9 @@ ZINES
 - Gathering Zine-Royal College of Art.
 
 
-### PREVIOUS YEARS
+## PREVIOUS YEARS
 
-INTERNATIONAL SHOWS
+### INTERNATIONAL SHOWS
 
 - "Moment of Reflection" - Venice Biennale
 - "King of my Heart" - Postcards form the Edge - New York
